@@ -9,8 +9,7 @@ A template repository for creating C++ native applications for [MatrixOS](https:
 3. Rename files and update the application name:
    - Rename `ExampleApp.h` → `YourAppName.h`
    - Rename `ExampleApp.cpp` → `YourAppName.cpp`
-   - Update class name from `ExampleApp` to `YourAppName` in all files
-   - Update `APP_NAME` in `CMakeLists.txt`
+   - Update class name from `ExampleApp` to `YourAppName` in all files (`.cpp`, `.h`, `.txt`)
 4. Add more cpp or h files and Implement your application logic.
 5. Add your app to MatrixOS (see [Installation](#installation))
 
