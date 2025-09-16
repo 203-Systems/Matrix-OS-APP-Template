@@ -1,6 +1,6 @@
 # MatrixOS Application Template
 
-A template repository for creating C++ native applications for [MatrixOS](https://github.com/203System/MatrixOS)
+A template repository for creating C++ native applications for [MatrixOS](https://github.com/203-Systems/MatrixOS)
 
 ## 🚀 Quick Start
 
@@ -12,9 +12,9 @@ A template repository for creating C++ native applications for [MatrixOS](https:
    - Update class name from `ExampleApp` to `YourAppName` in all files
    - Update `APP_NAME` in `CMakeLists.txt`
 4. Add more cpp or h files and Implement your application logic.
-5. Add your app to MatrixOS (see [Installation](#installation))
+5. Add your app to MatrixOS
 
-## 🛠️ Installation
+## 🛠️ Installation on MatrixOS
 
 ### Method 1: Git URL (Recommended)
 
@@ -114,14 +114,14 @@ MatrixOS provides a comprehensive UI framework for building interactive interfac
 - **UIComponents** - Pre-built components like buttons, selectors, menus, and more
 - **UIUtility** - Helper functions for common UI patterns (number input, text display, etc.)
 
-To use the UI framework, create UI objects within your application and call their `Start()` method to enter UI. See the UI components in [OS/UI/](https://github.com/203System/MatrixOS/tree/main/OS/UI) for available components.
+To use the UI framework, create UI objects within your application and call their `Start()` method to enter UI. See the UI components in [OS/UI/](https://github.com/203-Systems/MatrixOS/tree/main/OS/UI) for available components.
 - And many more...
 
-For complete documentation of all available APIs, refer to [Project Matrix Wiki](matrix.203.io) and [OS/MatrixOS.h](https://github.com/203-Systems/MatrixOS/blob/main/OS/MatrixOS.h).
+For complete documentation of all available APIs, refer to [Project Matrix Wiki](https://matrix.203.io) and [OS/MatrixOS.h](https://github.com/203-Systems/MatrixOS/blob/main/OS/MatrixOS.h).
 
 ## 🔗 Resources
 
-- [Project Matrix Wiki](matrix.203.io) 
-- [MatrixOS Repository](https://github.com/203System/MatrixOS)
+- [Project Matrix Wiki](https://matrix.203.io) 
+- [MatrixOS Repository](https://github.com/203-Systems/MatrixOS)
 - [Discord Community](https://discord.gg/rRVCBHHPfw)
 
