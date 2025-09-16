@@ -1,16 +1,12 @@
-/*
-This is the template application for Matrix OS
-*/
-
 #pragma once
 
 #include "MatrixOS.h"
 #include "Application.h"
 
-class Template : public Application {
+class ExampleApp : public Application {
  public:
   inline static Application_Info info = {
-      .name = "Template",
+      .name = "ExampleApp",
       .author = "203 Systems",
       .color = Color(0xFFFFFF),
       .version = 1,
