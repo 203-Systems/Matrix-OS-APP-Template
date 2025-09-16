@@ -14,4 +14,4 @@ target_link_libraries(TemplateApp PUBLIC
 )
 
 # Register the application class
-RegisterApplicationClass(Template)
+RegisterApplicationClass(ExampleApp)
